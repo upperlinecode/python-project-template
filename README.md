@@ -6,15 +6,17 @@ This is a template repository. That means you can make a copy of it using the "U
 
 To commit your code you need to run three steps:
 
-Step 1 - Select which files (`.` means "all")
+Step 1 - Select which files (`.` means "all").
 ```bash
 git add .
 ```
 
+Step 2 - Name the commit. 
 ```bash
 git commit -m "description of changes"
 ```
 
+Step 3 - Send the changes to GitHub.
 ```bash
 git push
 ```
